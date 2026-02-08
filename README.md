@@ -16,4 +16,4 @@ An exploratory data analysis and classification project examining risk factors a
 - Interpreted key predictors of risk  
 
 ## Files  
-- `Exploratory Data Analysis of a Health Dataset.ipynb`
+- `exploratory-data-analysis-of-a-health-dataset.ipynb`
